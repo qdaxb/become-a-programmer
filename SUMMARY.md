@@ -2,7 +2,7 @@
 
 ## 序
 
-* [序言](README.md)
+* [介绍](README.md)
 * [关于我](xu/guan-yu-wo.md)
 
 ## 成为开发者
