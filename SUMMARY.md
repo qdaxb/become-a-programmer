@@ -1,17 +1,10 @@
 # Table of contents
 
-* [Welcome](README.md)
+## 序
 
-## Getting Started
+* [序言](README.md)
+* [关于我](xu/guan-yu-wo.md)
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+## 成为开发者
 
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [第一个程序](cheng-wei-kai-fa-zhe/di-yi-ge-cheng-xu.md)
