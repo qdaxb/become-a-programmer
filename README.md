@@ -14,6 +14,8 @@
 
 我希望它最终能够成为程序员职业发展的某种“索引”，本身不需要过多的篇幅，但是能够给人足够清晰的脉络。
 
-由于精力有限，这本书目前采取不定期更新的方式编写，更新会在[https://github.com/qdaxb/become-a-programmer](https://github.com/qdaxb/become-a-programmer)同步，根据反馈来决定后续更新的频率。
+由于个人的能力和视野有限，书中内容难免出现主观或客观错误，希望大家不吝指正。
+
+同时由于精力有限，这本书目前采取不定期更新的方式编写，更新会在[https://github.com/qdaxb/become-a-programmer](https://github.com/qdaxb/become-a-programmer)同步，根据反馈来决定后续更新的频率。
 
 让我们开始成为程序员吧。
