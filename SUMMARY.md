@@ -13,5 +13,4 @@
 ## 成为学生
 
 * [学校、学历与专业](cheng-wei-xue-sheng/xue-xiao-xue-li-yu-zhuan-ye.md)
-* [专业课](cheng-wei-xue-sheng/zhuan-ye-ke.md)
 * [理解专业课](cheng-wei-xue-sheng/li-jie-zhuan-ye-ke.md)
