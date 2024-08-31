@@ -15,3 +15,7 @@
 * [学校、学历与专业](cheng-wei-xue-sheng/xue-xiao-xue-li-yu-zhuan-ye.md)
 * [理解专业课](cheng-wei-xue-sheng/li-jie-zhuan-ye-ke.md)
 * [成为学生](cheng-wei-xue-sheng/cheng-wei-xue-sheng.md)
+
+## 成为求职者
+
+* [求职与简历](cheng-wei-qiu-zhi-zhe/qiu-zhi-yu-jian-li.md)
