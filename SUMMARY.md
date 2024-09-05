@@ -19,3 +19,4 @@
 ## 成为求职者
 
 * [求职与简历](cheng-wei-qiu-zhi-zhe/qiu-zhi-yu-jian-li.md)
+* [经历面试](cheng-wei-qiu-zhi-zhe/jing-li-mian-shi.md)
