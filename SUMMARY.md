@@ -20,3 +20,7 @@
 
 * [求职与简历](cheng-wei-qiu-zhi-zhe/qiu-zhi-yu-jian-li.md)
 * [经历面试](cheng-wei-qiu-zhi-zhe/jing-li-mian-shi.md)
+
+## 成为职员
+
+* [开卷考试](cheng-wei-zhi-yuan/kai-juan-kao-shi.md)
